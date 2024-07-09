@@ -284,7 +284,7 @@ const effectorReact = [
     items: [
       {
         text: { en: "effector-react/compat" },
-        link: "/api/effector-react/module/сompat",
+        link: "/api/effector-react/module/compat",
       },
       {
         text: { en: "effector-react/scope" },
@@ -645,7 +645,7 @@ const effector = [
     items: [
       {
         text: { en: "effector/compat" },
-        link: "/api/effector/module/сompat",
+        link: "/api/effector/module/compat",
       },
       {
         text: { en: "effector/inspect" },
